@@ -1,6 +1,6 @@
 baseURL = "https://objective-bohr-30071a.netlify.app/"  
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "302_group6"
 theme = "ananke"
 
 [build]
