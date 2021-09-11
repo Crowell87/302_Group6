@@ -20,13 +20,13 @@ draft: false
 
 ### A: Fully functioning company website with menu and order system 
 
-#### - Completion of group’s intent: website has each of the pre-determined content sections listed (business information, updates, daily specials, menu, order system, contact information)  
+##### - Completion of group’s intent: website has each of the pre-determined content sections listed (business information, updates, daily specials, menu, order system, contact information)  
 
-#### - Order system is fully functional (carryout only) - orders can be placed, customer information and order information can be stored, and customers will receive a response message  
+##### - Order system is fully functional (carryout only) - orders can be placed, customer information and order information can be stored, and customers will receive a response message  
 
-#### - Website is fully functional (all links work)  
+##### - Website is fully functional (all links work)  
 
-#### - Consistent theme and aesthetics throughout  
+##### - Consistent theme and aesthetics throughout  
 
  
 
