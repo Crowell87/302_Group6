@@ -32,47 +32,47 @@ draft: false
 
 ### B: A functioning website, menu, and order system without specialization and customization  
 
-#### Menu is fully functional to view and order from, but there is no option to customize pizzas/food (add/subtract toppings, different crust options, etc.) 
+##### - Menu is fully functional to view and order from, but there is no option to customize pizzas/food (add/subtract toppings, different crust options, etc.) 
 
-#### Menu can be ordered from, but no “create your own” option  
+##### - Menu can be ordered from, but no “create your own” option  
 
-#### A pre-determined content section isn’t included  
+##### - A pre-determined content section isn’t included  
 
-#### Website is widely functional, but some functionalities are not working (minimal occurrences)  
+##### - Website is widely functional, but some functionalities are not working (minimal occurrences)  
 
  
 
 ### C: Partially interactive menu/website 
 
-#### Menu and order system are partially complete OR menu is complete but no order system in place  
+##### - Menu and order system are partially complete OR menu is complete but no order system in place  
 
-#### Theme is not implemented throughout the website  
+##### - Theme is not implemented throughout the website  
 
-#### More than one pre-determined content section is not included on the website  
+##### - More than one pre-determined content section is not included on the website  
 
-#### A handful of links are not working on the site  
+##### - A handful of links are not working on the site  
 
  
 
 ### D: Website with just company information, no interactivity  
 
-#### Website opens and is visible to viewer without any working links 
+##### - Website opens and is visible to viewer without any working links 
 
-#### Static webpage  
+##### - Static webpage  
 
-#### No interactive order system or menu  
+##### - No interactive order system or menu  
 
-#### Very limited content available to be seen (1 page)  
+##### - Very limited content available to be seen (1 page)  
 
-#### Links/buttons are present, but they don’t link to any additional pages  
+##### - Links/buttons are present, but they don’t link to any additional pages  
 
  
 
 ### E: No website 
 
-#### URL doesn’t work 
+##### - URL doesn’t work 
 
-#### 404 website error message  
+##### - 404 website error message  
 
  
 
