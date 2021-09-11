@@ -8,7 +8,7 @@ draft: false
 
  
 
-## Our group’s intent is to create a fully functional pizza website. We want our customers to be able to learn about our business, view the menu, place an order, and customize their pizza. The site will have business information, updates, daily specials, our menu, an order system, contact information, and additional content as time allows.  
+### Our group’s intent is to create a fully functional pizza website. We want our customers to be able to learn about our business, view the menu, place an order, and customize their pizza. The site will have business information, updates, daily specials, our menu, an order system, contact information, and additional content as time allows.  
 
  
 
