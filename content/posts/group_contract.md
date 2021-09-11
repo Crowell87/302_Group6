@@ -18,61 +18,61 @@ draft: false
 
  
 
-## A- Fully functioning company website with menu and order system 
+### A: Fully functioning company website with menu and order system 
 
-### Completion of group’s intent: website has each of the pre-determined content sections listed (business information, updates, daily specials, menu, order system, contact information)  
+#### - Completion of group’s intent: website has each of the pre-determined content sections listed (business information, updates, daily specials, menu, order system, contact information)  
 
-### Order system is fully functional (carryout only) - orders can be placed, customer information and order information can be stored, and customers will receive a response message  
+#### - Order system is fully functional (carryout only) - orders can be placed, customer information and order information can be stored, and customers will receive a response message  
 
-### Website is fully functional (all links work)  
+#### - Website is fully functional (all links work)  
 
-### Consistent theme and aesthetics throughout  
-
- 
-
-## B- A functioning website, menu, and order system without specialization and customization  
-
-### Menu is fully functional to view and order from, but there is no option to customize pizzas/food (add/subtract toppings, different crust options, etc.) 
-
-### Menu can be ordered from, but no “create your own” option  
-
-### A pre-determined content section isn’t included  
-
-### Website is widely functional, but some functionalities are not working (minimal occurrences)  
+#### - Consistent theme and aesthetics throughout  
 
  
 
-## C- Partially interactive menu/website 
+### B: A functioning website, menu, and order system without specialization and customization  
 
-### Menu and order system are partially complete OR menu is complete but no order system in place  
+#### Menu is fully functional to view and order from, but there is no option to customize pizzas/food (add/subtract toppings, different crust options, etc.) 
 
-### Theme is not implemented throughout the website  
+#### Menu can be ordered from, but no “create your own” option  
 
-### More than one pre-determined content section is not included on the website  
+#### A pre-determined content section isn’t included  
 
-### A handful of links are not working on the site  
-
- 
-
-## D- Website with just company information, no interactivity  
-
-### Website opens and is visible to viewer without any working links 
-
-### Static webpage  
-
-### No interactive order system or menu  
-
-### Very limited content available to be seen (1 page)  
-
-### Links/buttons are present, but they don’t link to any additional pages  
+#### Website is widely functional, but some functionalities are not working (minimal occurrences)  
 
  
 
-## E- No website 
+### C: Partially interactive menu/website 
 
-### URL doesn’t work 
+#### Menu and order system are partially complete OR menu is complete but no order system in place  
 
-### 404 website error message  
+#### Theme is not implemented throughout the website  
+
+#### More than one pre-determined content section is not included on the website  
+
+#### A handful of links are not working on the site  
+
+ 
+
+### D: Website with just company information, no interactivity  
+
+#### Website opens and is visible to viewer without any working links 
+
+#### Static webpage  
+
+#### No interactive order system or menu  
+
+#### Very limited content available to be seen (1 page)  
+
+#### Links/buttons are present, but they don’t link to any additional pages  
+
+ 
+
+### E: No website 
+
+#### URL doesn’t work 
+
+#### 404 website error message  
 
  
 
