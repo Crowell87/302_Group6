@@ -19,4 +19,4 @@ all content will move through.
 same Planner app to one of my other Microsoft Teams this week. Another student and I help design the AN 324 course (Business Data Management) with 
 Dr. Heshmati in Gatton and we have a Teams channel to collaborate on different class items. I ran this app by them and they loved it! We used this app to 
 have different workflows for homeworks and quizzes as we were completing those items this week and it has been a huge help to have real-time updates on 
-where everyone is at in the process. It also has been real cool to see this idea from class being used in a real-world setting! 
+where everyone is at in the process. It also has been real cool to see this idea from class being used in a real-world setting!
