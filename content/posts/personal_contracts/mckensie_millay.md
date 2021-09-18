@@ -8,7 +8,7 @@ McKensie Millay Personal Contract
 
 Developer & Editor  
 
-A: Excellent 
+A:
 
 Shows up to most in-class group sessions  
 
