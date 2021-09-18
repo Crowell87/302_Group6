@@ -3,7 +3,6 @@ title: "McKensie Millay Personal Report 2"
 date: 2021-09-12T00:00:00-04:00
 draft: false
 ---
-TEST TEST TEST
 
 Much like last week since we are mainly getting acquainted with the foundational aspects of content management,
 I feel like I once again made progress this week when it comes to the first class objective, "I can identify
