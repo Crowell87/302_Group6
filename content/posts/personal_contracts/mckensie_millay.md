@@ -8,25 +8,25 @@ McKensie Millay Personal Contract
 
 Developer & Editor  
 
-*A: Excellent 
+A: Excellent 
 
-  *Shows up to most in-class group sessions  
+Shows up to most in-class group sessions  
 
-  *Active participant in in-class work and sessions  
+Active participant in in-class work and sessions  
 
-  *Active communicator on GroupMe and Teams 
+Active communicator on GroupMe and Teams 
 
-  *Create and edit content as decided by team on time  
+Create and edit content as decided by team on time  
 
-  *Ensure content is of great and sound quality before publishing  
+Ensure content is of great and sound quality before publishing  
 
-  *Ensure complete, seamless functionality of CMS 
+Ensure complete, seamless functionality of CMS 
 
-  *Across the board, very little technical issues with the CMS system or the website itself 
+Across the board, very little technical issues with the CMS system or the website itself 
 
-  *Provide adequate, needed work with CSS/HTML 
+Provide adequate, needed work with CSS/HTML 
 
-  *Any assigned tasks to me are completed on time 
+Any assigned tasks to me are completed on time 
 
 B:  
 
