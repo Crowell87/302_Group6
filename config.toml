@@ -16,7 +16,7 @@ command = "hugo --gc --minify"
 [[menu.main]]
   name = "Menu"
   weight = 2
-  url = "/Menu.html"
+  url = "/posts/group_posts/group_post3.md"
  
 [[menu.main]]
   name = "Order"
