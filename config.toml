@@ -15,22 +15,22 @@ command = "hugo --gc --minify"
   
 [[menu.main]]
   name = "Menu"
-  weight = 1
+  weight = 2
   url = "/Menu.html"
  
 [[menu.main]]
   name = "Order"
-  weight = 1
+  weight = 3
   url = "/Order.html"
 
 [[menu.main]]
   name = "About"
-  weight = 1
+  weight = 4
   url = "/About.html"
 
 [[menu.main]]
   name = "Contact"
-  weight = 1
+  weight = 5
   url = "/Contact.html"
 
 [context.production.environment]
