@@ -7,6 +7,12 @@ theme = "ananke"
 publish = "public"
 command = "hugo --gc --minify"
 
+#menu links
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url = "/Home.html"
+
 [context.production.environment]
 HUGO_VERSION = "0.74.3"
 HUGO_ENV = "production"
