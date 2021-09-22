@@ -12,6 +12,26 @@ command = "hugo --gc --minify"
   name = "Home"
   weight = 1
   url = "/Home.html"
+  
+[[menu.main]]
+  name = "Menu"
+  weight = 1
+  url = "/Menu.html"
+ 
+[[menu.main]]
+  name = "Order"
+  weight = 1
+  url = "/Order.html"
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "/About.html"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 1
+  url = "/Contact.html"
 
 [context.production.environment]
 HUGO_VERSION = "0.74.3"
