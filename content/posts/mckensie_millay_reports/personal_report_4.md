@@ -4,7 +4,7 @@ date: 2021-09-26T00:00:00-04:00
 draft: false
 ---
 
-This week, I feel I some progress towards a new "I Can" statement again,
+This week, I feel I made some progress towards a new "I Can" statement again,
 this one being "I can describe and compare content management systems." Not only 
 do I feel I can describe a content managememnt system due to our lecture content
 for this week, which would be "a software system which automates the tasks around
@@ -12,8 +12,8 @@ the management of content... creating, organizing, controlling, securing, and ul
 delivering content," I also feel like I have a good understanding of what situations
 call for certain CMSs, what skillsets one should try to attain to work effectively
 with CMSs, and what role CMSs play in the business world of today thanks to our
-interview this week with Jonathan Moore. I feel like having a good handle on these ideas
-thingsis also extremely important when it comes to having a comprehensive and thorough 
+interview this week with Jonathan Moore. I feel like having a good handle on these various items
+is also extremely important when it comes to having a comprehensive and thorough 
 understanding of CMSs. While preliminary, I do think I have a good start to comparing
 and understanding different CMSs out there. Just in this week, I got some different
 insight into Hugo this week by working with different features when trying to set 
