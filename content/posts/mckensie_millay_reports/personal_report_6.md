@@ -7,7 +7,7 @@ draft: false
 This week, I feel I made good progress towards the first "I Can" statement again, that one being "I can identify and define key concepts in (web) content management."
 Two big concepts in content management, especically web content management, are presentation and channel distribution. Even though presentation is the topic for 
 next week, I have completed the materials for next week and I feel we touched on presentation enough this week for me to say I made good progress in my understanding
-of the concept as it relates to content management. Content distribution across multiple channels means expanding the reach of your content and maximizing the audience of your content your content 
+of the concept as it relates to content management. Content distribution across multiple channels means expanding the reach of your content and maximizing the audience of your content
 by sharing content on multiple content channels, such as website, print, social media accounts, YouTube, etc Thanks to the interview with Meagan this week, I now have a better 
 understanding of the importance of expanding your reach across multiple channels of distribution despite the extra workload that comes with that. I also have a more practical
 understanding of what specifics need to go into consideration when posting to various social media channels thanks to the interview with Meagan, such as the
