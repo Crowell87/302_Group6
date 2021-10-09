@@ -15,6 +15,6 @@ character limit with Twitter, the need to be on site for TikToks, and audience c
 relates to content management, it should be considered as a separate function that works alongisde actual content creation. While it is pretty much impossible to 
 separate the two as Deane Barker mentions, they are typically considered separate activities with separate tasks and teams that work on them that are then brought together 
 for the final product. That way, content can be created without being adjusted to fit presentation and presentation can be implemented in an effective and consistent way, 
-regardless of the content. For example, in the interview for next week with May May, she mentions having different individuals working on content production and content presentation and layout,
+regardless of the content. For example, in the interview for next week with May May, she mentions having different individuals working on content production and content presentation,
 such as journalists and designers, respectively. Formatting for headings, copy, layout, etc. is kept in folders in their Google Drive, which can be pulled at any 
 time for any new content generated at the KY Kernel. 
