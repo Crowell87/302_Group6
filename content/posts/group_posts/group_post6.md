@@ -5,7 +5,7 @@ draft: false
 ---
 
 Our group was really happy with the progress we made this week! With the server and WordPress site set up, we were able to actually start making changes to our 
-WordPress site and it was really cool seeing things already start to come together. We picked a theme, started setting up the menu, got all of our pages created, 
+WordPress site and it was really cool seeing things already start to come together. We picked a theme, started setting up the navigation bar, got all of our pages created, 
 and successfully implemented RestroPress, which was a free online ordering system plugin. We even got to add in a few menu items and see how that would look in 
 RestroPress. We feel really good about where we are at and are excited to see our progress continue this upcoming week. This week, we will focus on getting our menu 
 put together and adding more menu items into our site. We will probably have some focus on putting the food items on a "Menu" page and others will focus on putting 
