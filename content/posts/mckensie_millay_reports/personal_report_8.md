@@ -4,7 +4,7 @@ date: 2021-10-21T00:00:00-04:00
 draft: false
 ---
 
-This week, I feel I made good progress towards the following "I Can" statement: "I can find and use resources for self-directed learning." I feel like tghis was a big 
+This week, I feel I made good progress towards the following "I Can" statement: "I can find and use resources for self-directed learning." I feel like this was a big 
 week for this, personally, because after getting our new WordPress site up, thanks to Dr. Burns, we were able to dive knee-deep into WordPress with the content 
 we had planned last week. Therefore, I felt like I was getting a good feel for a lot of different areas of WordPress. With exploration comes new ground and learning
 though, so even though some of it I was able to figure out on my own, other parts I found myself searching how to perform a specific function that I wanted. For example, I wanted to change the color of only certain words to red, not the whole block. I knew how to do the latter, not the former. So, I googled
