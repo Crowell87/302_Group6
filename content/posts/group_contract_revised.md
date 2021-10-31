@@ -37,7 +37,7 @@ draft: false
 
 ##### - A pre-determined content section isn’t included  
 
-##### - Website is widely functional, but some functionalities are not working (minimal occurrences (<5))
+##### - Website is widely functional, but some functionalities are not working (minimal occurrences (<=5))
 
  
 
