@@ -1,6 +1,6 @@
 ---
 title: "ICT 302 - Group 6 - Group Contract Revised"
-date: 2020-10-29T00:00:00-04:00
+date: 2020-10-31T00:00:00-04:00
 draft: false
 ---
 
