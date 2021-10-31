@@ -21,10 +21,9 @@ draft: false
 ### A: Fully functioning company website with menu and order system 
 
 ##### - Completion of group’s intent: website has each of the pre-determined content sections listed (home page, about us, menu, order system, contact information)  
+##### - Order system is fully functional - orders can be placed, customer information and order information can be stored on our end, and customers will receive a response message on the website 
 
-##### - Order system is fully functional - orders can be placed, customer information and order information can be stored, and customers will receive a response message on the website 
-
-##### - Website is fully functional (allowed 1 technical issue)  
+##### - Website is fully functional (allowed 1-2 technical issues (e.g. if we are unable to get rid of billing address despite customers paying in cash))
 
 ##### - Consistent theme and aesthetics throughout  
 
